@@ -20,7 +20,7 @@ namespace Pokedex
         #endregion
 
         #region Constructor
-        public Pokemon() //empty constructor
+        public Pokemon() //empty constructor lol
         {
             pokemonId = 1;
             pokemonName = string.Empty;
